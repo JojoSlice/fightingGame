@@ -3,7 +3,7 @@ export default {
     left: "A",
     right: "D",
     jump: "W",
-    duck: "S",
+    block: "S",
     highAttack: "H",
     midAttack: "J",
     lowAttack: "K",

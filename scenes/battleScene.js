@@ -75,8 +75,8 @@ export default class BattleScene extends Phaser.Scene {
 
     this.player = new Player(
       this,
-      50,
-      winHeight - 50,
+      width - 50,
+      winHeight - 80,
       "pink",
       "pinkIdle",
       controls,
